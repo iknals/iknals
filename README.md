@@ -1,16 +1,25 @@
-## Hi there 👋
+# 👋 Hi, I'm Ikna Shillingford!
 
-<!--
-**iknals/iknals** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🔍 About Me
+- 🎓 MS in Data Science from Northwestern University
+- 🏢 EPM Consultant at Lionpoint Group
+- 🌱 Specializing in analytics, machine learning, and AI
+- 🛠️ Proficient in Python, SQL, and Anaplan
+- 📈 Interested in AI-driven solutions for business growth
+- 💼 Former experience in engineering and design
 
-Here are some ideas to get you started:
+### 🌐 Let's Connect:
+- [LinkedIn](https://www.linkedin.com/in/iknashillingford/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💻 Technologies:
+- **Languages**: Python, SQL, JavaScript
+- **Tools**: Anaplan, Git, Asana, Jupyter Notebooks, Pandas
+- **Platforms**: AWS, Google Cloud
+
+### 📊 Current Projects:
+- **Energy Data Analysis in Chicago**: Exploring trends in energy consumption and resilience
+- **Feature Selection with Boruta**: Using Boruta for anomaly detection in energy usage
+- **API Integrations**: Working on personal projects integrating Asana and GitHub and Anaplan pipelines
+- **Customer Chatbot**: Chatbots for anaplan demos
+
+
